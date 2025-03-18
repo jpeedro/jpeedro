@@ -48,6 +48,7 @@ Graduando em Ciência da Computação. Sou motivado por desafios e pelo aprendiz
   <img
         align="left"
         height="160em"
+        style="max-width: 100%;"
         src="https://github-readme-stats.vercel.app/api/top-langs/?username=jpeedro&layout=compact&langs_count=16&theme=dracula&custom_title=Tecnologias"
    />
 </p>
