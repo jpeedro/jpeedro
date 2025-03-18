@@ -15,6 +15,21 @@ Graduando em Ciência da Computação. Sou motivado por desafios e pelo aprendiz
   <img
         height="30"
         width="40"
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" 
+    />
+  <img
+        height="30"
+        width="40"
+        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"
+     />
+    <img
+        height="30"
+        width="40"
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg"
+    />
+  <img
+        height="30"
+        width="40"
         src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"
      />
   <img
@@ -22,16 +37,16 @@ Graduando em Ciência da Computação. Sou motivado por desafios e pelo aprendiz
         width="40" 
         src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"
     />
-  <img
-        height="30"
-        width="40"
-        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"
-     />
   <img 
         height="30" 
         width="40" 
         src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"
    />
+  <img
+        height="45"
+        width="40"
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg"
+    />
 </div>
 
 <br/>
