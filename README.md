@@ -40,7 +40,7 @@ Graduando em Ciência da Computação. Sou motivado por desafios e pelo aprendiz
 <p>
   <img
         align="left"
-        height="170em"
+        height="160em"
         alt="GitHub Stats"
         style="max-width: 100%;"
         src="https://github-readme-stats.vercel.app/api?username=jpeedro&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&locale=pt-br"
@@ -48,7 +48,6 @@ Graduando em Ciência da Computação. Sou motivado por desafios e pelo aprendiz
   <img
         align="left"
         height="160em"
-        style="max-width: 100%;"
         src="https://github-readme-stats.vercel.app/api/top-langs/?username=jpeedro&layout=compact&langs_count=16&theme=dracula&custom_title=Tecnologias"
    />
 </p>
